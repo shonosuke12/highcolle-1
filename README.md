@@ -31,7 +31,7 @@
 
         <ul class="textList1">
             <li>
-                <a href="">初めまして。</a>
+                <a href=""></a>
             </li>
             <li>
                 <a href=""> 同志社大学を受けたいと思っています。</a>
